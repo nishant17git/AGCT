@@ -372,6 +372,7 @@ a {
 }
 
 #left h3 {
+    margin-top: 20px;
     width: 25vw;
     font-size: 1.8vw;
     line-height: 2vw;
