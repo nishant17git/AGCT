@@ -104,6 +104,12 @@ html, body {
   text-decoration: none;
   transition: text-decoration 0.3s ease;
 }
+@media screen and (max-width: 640px) {
+    .register {
+        font-size: 20px;
+    }
+
+}
 
 .register :hover {
   text-decoration: underline;
