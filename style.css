@@ -305,12 +305,7 @@ nav .desktop-nav li a:hover {
 
 
 
-    @media (max-width: 500px) {
-        .nav-container {
-            transform: translateX(-0.3cm);
-        }
-    }
-
+    
 
     nav .menu-icon .line-1 {
         top: -4px;
