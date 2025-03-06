@@ -41,6 +41,7 @@ html, body {
     position: absolute;
     color: transparent;
     background: linear-gradient(to right,#ff00aa,#ff00aa);
+    backgroung-clip: text;
     -webkit-background-clip: text;
     font-size: 7vw;
     opacity: 0;
