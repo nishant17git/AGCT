@@ -666,7 +666,7 @@ a {
     align-items: center;
 }
 #sec p {
-   font-family: narwa-bold;
+   font-family: narwa-ultra;
    margin: 0 0 -15px 10px;
    font-size: 8vw;
 }
@@ -1195,7 +1195,7 @@ a {
     .mob-elem h4{
         margin-top: -10px;
         font-weight: 400;
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
     .mob-elem p{
         margin-top: -7px;
